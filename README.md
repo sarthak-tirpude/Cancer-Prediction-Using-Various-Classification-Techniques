@@ -15,6 +15,7 @@ Naïve Bayes Classifier is one of the simple and most effective Classification a
 
 # Random Forests Algorithm:
 <img width="1103" alt="Screenshot 2022-05-08 at 4 46 12 AM" src="https://user-images.githubusercontent.com/76950603/167275051-2ece0cdf-be18-4886-918f-c0ab9ad9343b.png">
+
 # Gaussian Naive Bayes Algorithm:
 
 <img width="1104" alt="Screenshot 2022-05-08 at 4 49 18 AM" src="https://user-images.githubusercontent.com/76950603/167275053-cd4d767d-ca4a-4741-b884-ba42454a11a7.png">
