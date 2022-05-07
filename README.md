@@ -18,3 +18,19 @@ Naïve Bayes Classifier is one of the simple and most effective Classification a
 # Gaussian Naive Bayes Algorithm:
 
 <img width="1104" alt="Screenshot 2022-05-08 at 4 49 18 AM" src="https://user-images.githubusercontent.com/76950603/167275053-cd4d767d-ca4a-4741-b884-ba42454a11a7.png">
+
+
+# Brain Tumour Dataset
+
+<img width="1440" alt="Sc<img width="1440" alt="Screenshot 2022-05-08 at 4 17 21 AM" src="https://user-images.githubusercontent.com/76950603/167275284-88ed27b4-e00b-4d58-9824-aeeee266e47b.png">
+reenshot 2022-05-08 at 4 17 12 AM" src="https://user-images.githubusercontent.com/76950603/167275271-58d91d93-07f0-41d7-b368-7673d5f7eb44.png">
+<img width="1093" alt="Screenshot 2022-05-08 at 4 18 18 AM" src="https://user-images.githubusercontent.com/76950603/167275292-e164d6b3-1576-44c5-bf51-49df24caa2fb.png">
+
+<img width="1093" alt="Screenshot 2022-05-08 at 4 18 04 AM" src="https://user-images.githubusercontent.com/76950603/167275288-e0e4c51a-2254-4575-8570-335e0be0d57f.png">
+
+
+
+
+
+
+
