@@ -22,11 +22,47 @@ Naïve Bayes Classifier is one of the simple and most effective Classification a
 
 # Brain Tumour Dataset
 
-<img width="1440" alt="Sc<img width="1440" alt="Screenshot 2022-05-08 at 4 17 21 AM" src="https://user-images.githubusercontent.com/76950603/167275284-88ed27b4-e00b-4d58-9824-aeeee266e47b.png">
-reenshot 2022-05-08 at 4 17 12 AM" src="https://user-images.githubusercontent.com/76950603/167275271-58d91d93-07f0-41d7-b368-7673d5f7eb44.png">
-<img width="1093" alt="Screenshot 2022-05-08 at 4 18 18 AM" src="https://user-images.githubusercontent.com/76950603/167275292-e164d6b3-1576-44c5-bf51-49df24caa2fb.png">
+<img width="1440" alt="Screenshot 2022-05-08 at 4 17 12 AM" src="https://user-images.githubusercontent.com/76950603/167275306-ed4c8a90-c741-45d7-bf6a-e83647947a88.png">
 
-<img width="1093" alt="Screenshot 2022-05-08 at 4 18 04 AM" src="https://user-images.githubusercontent.com/76950603/167275288-e0e4c51a-2254-4575-8570-335e0be0d57f.png">
+
+<img width="1440" alt="Screenshot 2022-05-08 at 4 17 21 AM" src="https://user-images.githubusercontent.com/76950603/167275311-18166338-99c8-42ae-be2c-0add89266503.png">
+
+
+<img width="1093" alt="Screenshot 2022-05-08 at 4 18 04 AM" src="https://user-images.githubusercontent.com/76950603/167275335-341a05a9-bb82-402e-b8f1-efff83200ed7.png">
+
+
+<img width="1093" alt="Screenshot 2022-05-08 at 4 18 18 AM" src="https://user-images.githubusercontent.com/76950603/167275341-36820289-81b7-442d-98b8-5333db05d64f.png">
+
+
+# Breast Cancer Dataset
+
+<img width="1440" alt="Screenshot 2022-05-08 at 4 20 14 AM" src="https://user-images.githubusercontent.com/76950603/167275372-098d3091-406d-4c3c-85cc-3e9af303d65a.png">
+
+
+<img width="1092" alt="Screenshot 2022-05-08 at 4 20 55 AM" src="https://user-images.githubusercontent.com/76950603/167275393-5504f4f1-454b-4761-a399-1f915259ba6c.png">
+
+
+<img width="1091" alt="Screenshot 2022-05-08 at 4 21 08 AM" src="https://user-images.githubusercontent.com/76950603/167275387-9eb94bc3-672a-46cd-9d81-d3de7e280c0f.png">
+
+# Lung Cancer Dataset
+
+<img width="1093" alt="Screenshot 2022-05-08 at 4 25 54 AM" src="https://user-images.githubusercontent.com/76950603/167275408-402ca563-5bc9-4fcf-bf6a-01e8351f8483.png">
+
+<img width="1092" alt="Screenshot 2022-05-08 at 4 26 04 AM" src="https://user-images.githubusercontent.com/76950603/167275410-98e9cd34-e746-4ca1-8242-242777f9a6ed.png">
+
+# Prostate Cancer Dataset
+
+
+<img width="1090" alt="Screenshot 2022-05-08 at 4 24 44 AM" src="https://user-images.githubusercontent.com/76950603/167275423-3d8d7fac-b621-46f1-9af7-a98b2255e042.png">
+
+
+<img width="1092" alt="Screenshot 2022-05-08 at 4 24 54 AM" src="https://user-images.githubusercontent.com/76950603/167275427-022d0404-3adc-43eb-bf67-b530caac2002.png">
+
+
+<img width="1092" alt="Screenshot 2022-05-08 at 4 25 03 AM" src="https://user-images.githubusercontent.com/76950603/167275433-7b87460a-a471-4a91-be90-9f76034f0d58.png">
+
+
+
 
 
 
